@@ -20527,7 +20527,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos] {
     opacity: 0.85;
   }
   .footer-prt {
-    margin: 0 8px !important;
+    margin: 0 !important;
   }
   .right-nav {
     display: none !important;
@@ -22007,10 +22007,9 @@ header.mobile-stick .header-section {
 .footer-prt {
   padding: 50px 0px 10px 0px;
   background: var(--web-drk-gray) url(../image/footer-image.png) center center;
-  border-radius: 50px 50px 0px 0px;
-  border-top: 3px solid var(--web-drk-gray);
+  border-top: 2px dashed var(--web-gray);
   background-size: cover;
-  margin: 0 15px;
+  margin: 0;
 }
 .footer-prt hr {
   background-color: #fff;
